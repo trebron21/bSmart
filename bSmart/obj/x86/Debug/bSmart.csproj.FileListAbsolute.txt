@@ -1,0 +1,17 @@
+D:\Work_2_prog\Jatek\bSmart\bSmart\bSmart\bin\Debug\bSmart.exe
+D:\Work_2_prog\Jatek\bSmart\bSmart\bSmart\bin\Debug\bSmart.pdb
+D:\Work_2_prog\Jatek\bSmart\bSmart\bSmart\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Work_2_prog\Jatek\bSmart\bSmart\bSmart\obj\x86\Debug\bSmart.Form1.resources
+D:\Work_2_prog\Jatek\bSmart\bSmart\bSmart\obj\x86\Debug\bSmart.Properties.Resources.resources
+D:\Work_2_prog\Jatek\bSmart\bSmart\bSmart\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Work_2_prog\Jatek\bSmart\bSmart\bSmart\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Work_2_prog\Jatek\bSmart\bSmart\bSmart\obj\x86\Debug\bSmart.exe
+D:\Work_2_prog\Jatek\bSmart\bSmart\bSmart\obj\x86\Debug\bSmart.pdb
+D:\wrk\_ebooks\GitHub\bSmart\bSmart\bin\Debug\bSmart.exe.config
+D:\wrk\_ebooks\GitHub\bSmart\bSmart\obj\x86\Debug\bSmart.exe
+D:\wrk\_ebooks\GitHub\bSmart\bSmart\obj\x86\Debug\bSmart.pdb
+D:\wrk\_ebooks\GitHub\bSmart\bSmart\bin\Debug\bSmart.exe
+D:\wrk\_ebooks\GitHub\bSmart\bSmart\bin\Debug\bSmart.pdb
+D:\wrk\_ebooks\GitHub\bSmart\bSmart\obj\x86\Debug\bSmart.MainForm.resources
+D:\wrk\_ebooks\GitHub\bSmart\bSmart\obj\x86\Debug\bSmart.Properties.Resources.resources
+D:\wrk\_ebooks\GitHub\bSmart\bSmart\obj\x86\Debug\bSmart.csproj.GenerateResource.Cache

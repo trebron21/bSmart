@@ -1,0 +1,16 @@
+D:\wrk\_ebooks\GitHub\bSmart\bSmart\bin\x64\Release\bSmart.exe.config
+D:\wrk\_ebooks\GitHub\bSmart\bSmart\bin\x64\Release\bSmart.exe
+D:\wrk\_ebooks\GitHub\bSmart\bSmart\obj\x64\Release\bSmart.csprojResolveAssemblyReference.cache
+D:\wrk\_ebooks\GitHub\bSmart\bSmart\obj\x64\Release\bSmart.MainForm.resources
+D:\wrk\_ebooks\GitHub\bSmart\bSmart\obj\x64\Release\bSmart.Properties.Resources.resources
+D:\wrk\_ebooks\GitHub\bSmart\bSmart\obj\x64\Release\bSmart.csproj.GenerateResource.Cache
+D:\wrk\_ebooks\GitHub\bSmart\bSmart\obj\x64\Release\bSmart.exe
+D:\wrk\vs_projects\bSmart\bSmart\bin\x64\Release\bSmart.exe.config
+D:\wrk\vs_projects\bSmart\bSmart\obj\x64\Release\bSmart.exe
+D:\wrk\vs_projects\bSmart\bSmart\bin\x64\Release\bSmart.exe
+D:\wrk\vs_projects\bSmart\bSmart\obj\x64\Release\bSmart.csprojResolveAssemblyReference.cache
+D:\wrk\vs_projects\bSmart\bSmart\obj\x64\Release\BSmart.MainForm.resources
+D:\wrk\vs_projects\bSmart\bSmart\obj\x64\Release\bSmart.Properties.Resources.resources
+D:\wrk\vs_projects\bSmart\bSmart\obj\x64\Release\bSmart.csproj.GenerateResource.Cache
+D:\wrk\vs_projects\bSmart\bSmart\bin\x64\Release\MathNet.Numerics.dll
+D:\wrk\vs_projects\bSmart\bSmart\bin\x64\Release\MathNet.Numerics.xml
